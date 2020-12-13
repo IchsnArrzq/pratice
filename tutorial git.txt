@@ -1,0 +1,40 @@
+git init = init a folder to be repo git
+
+git config --list
+
+git config --global user.email "ichsanarrizqi@smkwikrama.sch.id" all repo
+
+git config --local user.name "ichsan arrizqi" only one repo
+
+git config --global user.username "ichsanarrizqi@smkwikrama.sch.id"
+git add <file> = add new file to staging area
+
+git checkout (5 digit awal) -- <file> = checkpoint a commit
+
+git commit -m <message> = 
+
+git log
+
+git status
+
+3 areas on repo git = {
+-working tree
+-staging area (git add)
+-history (git commit)
+}
+
+git branch
+
+git branch (branch name)
+
+git log --all --decorate --oneline --graph
+
+git merge (branch name)
+
+
+git branch --merged
+
+git branch -d (branch name)
+
+git branch -D (branch name)
+
